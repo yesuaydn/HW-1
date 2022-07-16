@@ -1,7 +1,7 @@
 <h1>Yeşim Aydına</h1>
 <h2>Hakkımda</h2>
 <p>
-    Merhaba. Ben Yeşim Aydına. Ankara'da yaşıyorum. ODTÜ'de İnşaat mühendisliği 4. öğrencisiyim.
+    Merhaba. Ben Yeşim Aydına. Ankara'da yaşıyorum.
     Spor yapmayı, kitap okumayı ve dizi izlemeyi severim.
     <!--Yukarıda entera basıp satırı aşağıya indirdim ama bunun sayfada böyle görünmeyeceğini biliyorum.
     Sadece yazarken kendim bütün görebileyim diye yaptım.-->
